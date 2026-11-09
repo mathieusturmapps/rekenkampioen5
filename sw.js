@@ -11,7 +11,7 @@
  *
  * De versie wordt bij de build vervangen (zie scripts/build.mjs).
  */
-const VERSION = '202611091343';
+const VERSION = '202611091622';
 const CACHE = `rekenkampioen-${VERSION}`;
 const PRECACHE = [
   './',
