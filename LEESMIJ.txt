@@ -1,0 +1,10 @@
+Deze map is de kant-en-klare website van Rekenkampioen (reclamevrije versie).
+
+Upload ALLE bestanden uit deze map (16 bestanden + dit bestand) naar je
+GitHub-repository, in de ROOT — dus niet in een submap.
+
+Let op: .nojekyll is een verborgen bestand. Zorg dat je bestandsbeheer
+verborgen bestanden toont, anders wordt het overgeslagen.
+
+Daarna: Settings -> Pages -> Source: "Deploy from a branch",
+Branch: main, map: / (root).
