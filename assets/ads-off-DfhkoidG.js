@@ -1,0 +1,1 @@
+function t(){return null}function e(){}function o(){return!1}function u(){return"unknown"}function i(n){}async function r(){return"denied"}export{t as adsSlot,u as getConsent,e as initAds,o as isConfigured,r as openConsentDialog,i as setConsent};
